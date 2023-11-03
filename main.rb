@@ -1,5 +1,5 @@
-require_relative 'my_list.rb'
-require_relative 'my_enumerable.rb'
+require_relative 'my_list'
+require_relative 'my_enumerable'
 
 list = Mylist.new(1, 2, 3, 4)
 
@@ -12,4 +12,4 @@ puts(list.any? { |e| e == 2 }) # Output: true
 puts(list.any? { |e| e == 5 }) # Output: false
 
 # Testing for filter? method
-puts(list.filter {|e| e.even?}) # Output: [2, 4]
+puts(list.filter { |e| e.even? }) # Output: [2, 4]
