@@ -52,7 +52,7 @@ The Enumerable mixin provides collection classes with several traversal and sear
 
 - On the terminal run this command git clone ``
 
-- Go to the repository folder using command prompt cd `enumrable`
+- Go to the repository folder using command prompt cd `enumerable`
 
 - Install the dev dependencies for linters run npm install.
 - setup Webpack
@@ -75,7 +75,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/nuga0909/enumrable.git
+- On the terminal run this command git clone https://github.com/nuga0909/enumerable.git
 
 - Go to the repository folder using command prompt cd Morse-Code
 
@@ -113,7 +113,7 @@ Sulaimon Ayodeji
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/nuga0909/enumrable/issues).
+Feel free to check the [issues page](https://github.com/nuga0909/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
