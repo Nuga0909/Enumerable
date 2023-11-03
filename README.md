@@ -17,10 +17,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Code Decoder<a name="about-project"></a>
+# 📖 Enumerable<a name="about-project"></a>
 
-** Morse Code Decoder**
-This is a RUBY Application a decoder where you can decode any MORSE code.
+** Enumerable**
+The Enumerable mixin provides collection classes with several traversal and searching methods, and with the ability to sort.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,7 +39,7 @@ This is a RUBY Application a decoder where you can decode any MORSE code.
 
 ### Key Features <a name="key-features"></a>
 
-- **[User can decode any morse code]**
+- **[User can get several searching methods]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,7 +52,7 @@ This is a RUBY Application a decoder where you can decode any MORSE code.
 
 - On the terminal run this command git clone ``
 
-- Go to the repository folder using command prompt cd `Morse-Code`
+- Go to the repository folder using command prompt cd `enumrable`
 
 - Install the dev dependencies for linters run npm install.
 - setup Webpack
@@ -75,7 +75,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/nuga0909/Morse-Code.git
+- On the terminal run this command git clone https://github.com/nuga0909/enumrable.git
 
 - Go to the repository folder using command prompt cd Morse-Code
 
@@ -113,7 +113,7 @@ Sulaimon Ayodeji
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/nuga0909/Morse-Code/issues).
+Feel free to check the [issues page](https://github.com/nuga0909/enumrable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
